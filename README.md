@@ -1,10 +1,17 @@
-# Hi, I'm Amarjeet 👋 
+# Hi, I'm Amarjeet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-Hey! I'm Amarjeet. I just finished my Computer Engineering degree and I'm excited to jump into backend development. Coding's my thing, you know? I love the idea of building stuff that actually helps people out.
+## 💫 About Me
 
-Technology moves fast, doesn't it? But that's what makes it fun. I'm always trying to learn new things to keep up. It's pretty cool to think about how we can use all this technology to make the world a bit better.
+🎓 Fresh Computer Engineering graduate<br>
+💻 Aspiring Backend Developer<br>
+🌱 Constantly learning and evolving<br>
+🚀 Excited to build tech that makes a difference<br>
+🌍 Believer in technology's power to better the world<br>
+🧠 Problem solver and innovation enthusiast<br>
 
-I'm just starting out, but I'm ready to tackle whatever comes my way. Every challenge is a chance to get better at what I do. So yeah, that's me - new grad, code enthusiast, always learning, and excited to see where this dev journey takes me!
+> *"Be the best version of yourself in anything that you do. You don't have to live anybody else's story."* 
 
 ## 🛠️ Technical Skills 
 [![My Skills](https://skillicons.dev/icons?i=python,java,cpp,php,javascript,html,css,vue,tailwind,flask,git,vscode,figma,sqlite,mysql&perline=5)](https://skillicons.dev)
+
+## 🌱 Currently Learning
