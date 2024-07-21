@@ -15,6 +15,6 @@
 ## 🌱 Currently Learning
 [![Currently Learning](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nuxtjs,laravel,firebase,django,fastapi,postman&perline=5)](https://skillicons.dev)
 
-<br><br>
+<br>
 
 > *"Be the best version of yourself in anything that you do. You don't have to live anybody else's story."* 
